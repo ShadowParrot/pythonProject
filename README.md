@@ -1,1 +1,1 @@
-# pthonProject
+# pythonProject
